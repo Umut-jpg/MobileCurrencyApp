@@ -23,7 +23,6 @@
 
 
 
-
 <img src="https://github.com/Umut-jpg/MobileCurrencyApp/assets/77737561/7b57b81a-6691-44d0-ad2c-610f88d122e1" alt="Resim Adı" width="400" height="900">
 <img src="https://github.com/Umut-jpg/MobileCurrencyApp/assets/77737561/eb0398b6-a4ff-4682-8285-58bf0bab55d7" alt="Resim Adı" width="400" height="900">
 <img src="https://github.com/Umut-jpg/MobileCurrencyApp/assets/77737561/35728f02-39af-4a68-8086-8f6d03454d67" alt="Resim Adı" width="400" height="900">
