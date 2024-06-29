@@ -1,0 +1,2 @@
+# MyCurrencyApp
+Kur takip uygulaması
