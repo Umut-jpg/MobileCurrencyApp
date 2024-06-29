@@ -13,8 +13,6 @@
 
 
 
- 
-  
 
 ```bash 
   Anahtar Kelime : Kotlin , Api
