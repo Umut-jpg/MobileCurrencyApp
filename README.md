@@ -1,9 +1,10 @@
 
  
    
-  # <img src="https://github.com/Umut-jpg/MobileCurrencyApp/assets/77737561/2b2be417-a64a-4361-a7fb-e2cc58c69d1b " alt="Resim Adı" width="50" height="100"> Döviz Altın Kur Takip Uygulaması (Kotlin)
+  # <img src="https://github.com/Umut-jpg/MobileCurrencyApp/assets/77737561/fea3b1b3-5dd5-413b-9ca4-346d0b658057 " alt="Resim Adı" width="50" height="100"> Döviz Altın Kur Takip Uygulaması (Kotlin)
  
 ##Döviz ve Altın Kur Takip Uygulaması, kullanıcıların anlık olarak döviz ve altın kurlarını takip edebilmelerini sağlayan bir mobil uygulamadır. Kotlin programlama dili kullanılarak geliştirilen bu uygulama, kullanıcı dostu arayüzü ve güncel verileri ile finansal bilgileri kolayca erişilebilir hale getirir.
+
 
 
 
@@ -17,7 +18,10 @@
 
 
 
-<img src="https://github.com/Umut-jpg/MobileCurrencyApp/assets/77737561/7ab1b69a-1349-49ca-9bc8-12f54887b693 " alt="Resim Adı" width="400" height="900">
-<img src="https://github.com/Umut-jpg/MobileCurrencyApp/assets/77737561/34b3be3d-8263-4645-a68b-62ad6d054fca" alt="Resim Adı" width="400" height="900">
-<img src="https://github.com/Umut-jpg/MobileCurrencyApp/assets/77737561/45950a55-5a54-46f6-a633-fcb83b408307" alt="Resim Adı" width="400" height="900">
-<img src="https://github.com/Umut-jpg/MobileCurrencyApp/assets/77737561/3911f0e2-5416-45cf-9070-5f8cf9c1ad04" alt="Resim Adı" width="400" height="900">
+
+
+
+<img src="https://github.com/Umut-jpg/MobileCurrencyApp/assets/77737561/7b57b81a-6691-44d0-ad2c-610f88d122e1" alt="Resim Adı" width="400" height="900">
+<img src="https://github.com/Umut-jpg/MobileCurrencyApp/assets/77737561/eb0398b6-a4ff-4682-8285-58bf0bab55d7" alt="Resim Adı" width="400" height="900">
+<img src="https://github.com/Umut-jpg/MobileCurrencyApp/assets/77737561/35728f02-39af-4a68-8086-8f6d03454d67" alt="Resim Adı" width="400" height="900">
+<img src="https://github.com/Umut-jpg/MobileCurrencyApp/assets/77737561/4f3327d8-2d51-4d9a-8a9b-4f17e1a613d4" alt="Resim Adı" width="400" height="900">
