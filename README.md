@@ -3,7 +3,7 @@
      <img src="https://github.com/Umut-jpg/MobileCurrencyApp/assets/77737561/fea3b1b3-5dd5-413b-9ca4-346d0b658057 " alt="Resim Adı" width="100" height="150">
 </p>
 <p align="center">
-    a href="https://www.yusaumut.com">YusaUmut.Com</a>
+ [YusaUmut.Com](https://www.yusaumut.com)
 </p>
    
   #Döviz Altın Kur Takip Uygulaması (Kotlin)
