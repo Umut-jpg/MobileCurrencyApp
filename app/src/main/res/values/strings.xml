@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">DÖVİZ TAKİP (YUMUT)</string>
+    <string name="hello_blank_fragment">Merhaba Hoşgeldiniz</string>
+    <string name="calculatorPage">Veriler Yükleniyor</string>
+    <string name="HomePage">Veriler Yükleniyor </string>
+    <string name="ListPage">Veriler Yükleniyor</string>
+    <string name="GoldPage">Veriler Yükleniyor</string>
+</resources>

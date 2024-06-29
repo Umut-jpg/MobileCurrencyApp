@@ -1,0 +1,14 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/ListLayout"
+        android:icon="@drawable/currency_icon"
+        android:title="Döviz Kurları" />
+    <item
+        android:id="@+id/GoldLayout"
+        android:icon="@drawable/gold_icon"
+        android:title="Altın Kurları" />
+    <item
+        android:id="@+id/CalculatorLayout"
+        android:icon="@drawable/calculator_icon"
+        android:title="Kur Hesaplayıcı" />
+</menu>
